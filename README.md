@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Hello and Welcome!
 
-Hello and Welcome!
-As I'm doing data science, Python, web scraping, APIs, modeling, Git, GitHub, and all the other tons of cool stuff, I will be updating this webpage with links to my projects, posts, etc. in hopes you will make use of it and help you on your journey.
+As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, GitHub, and all the other tons of cool stuff, I will be updating this webpage with links to my projects, posts, etc. in hopes you will make use of it and help you on your journey.
 <br /> Also, because I think it will be beneficial to have a quick reference. 
 
 
