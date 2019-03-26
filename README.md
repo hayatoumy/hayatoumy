@@ -7,7 +7,7 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [A Web Scraping Project](https://hayatoumy.github.io/webscraping-1/)
 
 
-[A Regression Model Project Using Log Transoformation and Ridge Regularization](https://github.com/hayatoumy/regression_log_transformation)
+[A Regression Model Project Using Log Transoformation and Ridge Regularization](https://hayatoumy.github.io/regression_log_transformation/)
 
 
 
