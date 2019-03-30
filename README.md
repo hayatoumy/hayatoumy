@@ -12,7 +12,7 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [A Regression Model Project Using Log Transoformation and Ridge Regularization](https://hayatoumy.github.io/regression_log_transformation/)
 
 
-
+[Python Problems, Solved](https://github.com/hayatoumy/python_challenges_solutions)
 
 
 
