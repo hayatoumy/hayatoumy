@@ -20,3 +20,5 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Encoding Categorical Variables in Python](https://medium.com/@haya.toumy/encoding-string-variables-in-python-and-dealing-with-null-values-93f8e48fe5c1) 
 
 [Model Selection in Python for Regression Analysis](https://medium.com/@haya.toumy/regression-model-selection-workflow-step-by-step-with-explanations-b6d81612767e)
+
+[Natural Language Processing classification, and API](https://medium.com/@haya.toumy/natural-language-processing-apis-and-classification-in-python-a-project-walkthrough-edbd5b501a01)
