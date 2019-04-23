@@ -15,6 +15,9 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Python Problems, Solved](https://github.com/hayatoumy/python_challenges_solutions)
 
 
+[Live Road and Traffic Status Tweets](https://github.com/hayatoumy/road_status_live) 
+
+
 
 ### Posts and Publications 
 [Encoding Categorical Variables in Python](https://medium.com/@haya.toumy/encoding-string-variables-in-python-and-dealing-with-null-values-93f8e48fe5c1) 
