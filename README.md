@@ -15,7 +15,7 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Python Problems, Solved](https://github.com/hayatoumy/python_challenges_solutions)
 
 
-[Live Road and Traffic Status Tweets](https://github.com/hayatoumy/road_status_live) 
+[Interactive Function to collect Live Road and Traffic Status from Tweets](https://github.com/hayatoumy/road_status_live) 
 
 
 
