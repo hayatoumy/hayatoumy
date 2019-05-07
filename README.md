@@ -12,10 +12,10 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [A Regression Model Project Using Log Transoformation and Ridge Regularization](https://hayatoumy.github.io/regression_log_transformation/)
 
 
-[Python Problems, Solved](https://github.com/hayatoumy/python_challenges_solutions)
+[Python Problems, Solved](https://hayatoumy.github.io/python_challenges_solutions)
 
 
-[Interactive Function to collect Live Road and Traffic Status from Tweets](https://github.com/hayatoumy/road_status_live) 
+[Interactive Function to collect Live Road and Traffic Status from Tweets](https://hayatoumy.github.io/road_status_live) 
 
 
 
@@ -31,4 +31,4 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 
 
 ### Bayesian Projects
-[Bayesian_projects](https://github.com/hayatoumy/Bayesian_projects)
+[Bayesian_projects](https://hayatoumy.github.io/Bayesian_projects)
