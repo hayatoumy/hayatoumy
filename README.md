@@ -27,3 +27,8 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Natural Language Processing classification, and API](https://medium.com/@haya.toumy/natural-language-processing-apis-and-classification-in-python-a-project-walkthrough-edbd5b501a01)
 
 [Saving a list of html pages to a text file with Python and BeautifulSoup](https://medium.com/@haya.toumy/how-to-store-scraped-webpages-with-beautifulsoup-in-a-list-then-save-it-to-a-text-file-6629b104035c)
+
+
+
+### Bayesian Projects
+[Bayesian_projects](https://github.com/hayatoumy/Bayesian_projects)
