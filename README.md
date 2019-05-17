@@ -23,15 +23,17 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 
 
 ### Posts and Publications 
-[Encoding Categorical Variables in Python](https://medium.com/@haya.toumy/encoding-string-variables-in-python-and-dealing-with-null-values-93f8e48fe5c1) 
+[Recommendation Engine for Perfumes](https://medium.com/@haya.toumy/recommender-engine-for-perfumes-35b1a0b0d436)
 
-[Model Selection in Python for Regression Analysis](https://medium.com/@haya.toumy/regression-model-selection-workflow-step-by-step-with-explanations-b6d81612767e)
-
-[Natural Language Processing classification, and API](https://medium.com/@haya.toumy/natural-language-processing-apis-and-classification-in-python-a-project-walkthrough-edbd5b501a01)
+[Live Traffic Updates, and Road Conditions: Interactive, Easy to Use, Function](https://medium.com/@haya.toumy/interactive-function-to-gather-live-tweets-about-road-conditions-and-traffic-status-91df25289dd9)
 
 [Saving a list of html pages to a text file with Python and BeautifulSoup](https://medium.com/@haya.toumy/how-to-store-scraped-webpages-with-beautifulsoup-in-a-list-then-save-it-to-a-text-file-6629b104035c)
 
-[Live Traffic Updates, and Road Conditions: Interactive, Easy to Use, Function](https://medium.com/@haya.toumy/interactive-function-to-gather-live-tweets-about-road-conditions-and-traffic-status-91df25289dd9)
+[Natural Language Processing classification, and API](https://medium.com/@haya.toumy/natural-language-processing-apis-and-classification-in-python-a-project-walkthrough-edbd5b501a01)
+
+[Model Selection in Python for Regression Analysis](https://medium.com/@haya.toumy/regression-model-selection-workflow-step-by-step-with-explanations-b6d81612767e)
+
+[Encoding Categorical Variables in Python](https://medium.com/@haya.toumy/encoding-string-variables-in-python-and-dealing-with-null-values-93f8e48fe5c1) 
 
 
 
