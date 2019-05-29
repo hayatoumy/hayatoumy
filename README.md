@@ -18,7 +18,7 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Interactive Function to collect Live Road and Traffic Status from Tweets](https://hayatoumy.github.io/road_status_live)
 
 
-[Recommener Engine for Perfumes. Data collected in May, 2019](https://hayatoumy.github.io/perfume_project/)
+[Recommener Engine for Perfumes. Data collected in May, 2019](https://hayatoumy.github.io/recommender_system/)
 
 
 
