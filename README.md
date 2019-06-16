@@ -21,6 +21,9 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [Recommener Engine for Perfumes. Data collected in May, 2019](https://hayatoumy.github.io/recommender_system/)
 
 
+[Perfume Analysis: Success Based on Perfume Characteristics](https://hayatoumy.github.io/perfume_analysis/)
+
+
 
 ### Posts and Publications 
 [Recommendation Engine for Perfumes](https://medium.com/@haya.toumy/recommender-engine-for-perfumes-35b1a0b0d436)
