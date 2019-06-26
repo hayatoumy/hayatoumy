@@ -12,6 +12,9 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [A Regression Model Project Using Log Transoformation and Ridge Regularization](https://hayatoumy.github.io/regression_log_transformation/)
 
 
+[NLP Classification - Using Reddit API to Collect Posts](https://hayatoumy.github.io/classification_api_NLP/)
+
+
 [Python Problems, Solved](https://hayatoumy.github.io/python_challenges_solutions/)
 
 
