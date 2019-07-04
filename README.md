@@ -15,20 +15,19 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 [NLP Classification - Using Reddit API to Collect Posts](https://hayatoumy.github.io/classification_api_NLP/)
 
 
-[Python Problems, Solved](https://hayatoumy.github.io/python_challenges_solutions/)
-
-
 [Interactive Function to collect Live Road and Traffic Status from Tweets](https://hayatoumy.github.io/road_status_live)
 
 
 [Recommener Engine for Perfumes. Data collected in May, 2019](https://hayatoumy.github.io/recommender_system/)
 
 
-[Perfume Analysis: Success Based on Perfume Characteristics](https://hayatoumy.github.io/perfume_analysis/)
+[Perfume Analysis: Saleability Based on Perfume Characteristics](https://hayatoumy.github.io/perfume_analysis/)
 
 
+[Python Problems, Solved](https://hayatoumy.github.io/python_challenges_solutions/)
 
-### Posts and Publications 
+
+### Articles and Publications 
 [Recommendation Engine for Perfumes](https://medium.com/@haya.toumy/recommender-engine-for-perfumes-35b1a0b0d436)
 
 [Live Traffic Updates, and Road Conditions: Interactive, Easy to Use, Function](https://medium.com/@haya.toumy/interactive-function-to-gather-live-tweets-about-road-conditions-and-traffic-status-91df25289dd9)
@@ -41,6 +40,7 @@ As I'm doing data science projects using Python, web scraping, APIs, AWS, Git, G
 
 [Encoding Categorical Variables in Python](https://medium.com/@haya.toumy/encoding-string-variables-in-python-and-dealing-with-null-values-93f8e48fe5c1) 
 
+[Which Data Science Bootcamp to Sign Up For?](https://medium.com/@haya.toumy/which-data-science-bootcamp-should-you-sign-up-for-d857dc52bcdd)
 
 
 ### Bayesian Projects
