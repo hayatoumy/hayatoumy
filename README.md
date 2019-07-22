@@ -8,6 +8,9 @@ As I'm doing different data science projects using Python, web scraping, APIs, A
 
 ### Projects and Repositories
 
+[Predictive Models Projects](https://hayatoumy.github.io/predictive_models/)
+
+
 [A Web Scraping Project](https://hayatoumy.github.io/webscraping-1/)
 
 
