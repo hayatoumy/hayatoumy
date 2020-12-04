@@ -33,7 +33,7 @@ As I'm doing different data science projects using Python, web scraping, APIs, A
 
 
 ### Articles and Publications 
-[Spark for Data Scientiest Cookbook](https://haya-toumy.gitbook.io/spark-notes/)
+[Spark for Data Scientists - Cookbook](https://haya-toumy.gitbook.io/spark-notes/)
 
 [Recommendation Engine for Perfumes](https://medium.com/@haya.toumy/recommender-engine-for-perfumes-35b1a0b0d436)
 
