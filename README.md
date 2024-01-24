@@ -35,6 +35,8 @@ As I'm doing different data science projects using Python, web scraping, APIs, A
 ### Articles and Publications 
 [Spark for Data Scientists - Cookbook](https://haya-toumy.gitbook.io/spark-notes/)
 
+[Personal Notes on Terminal How To's and Related Topics](https://haya-toumy.gitbook.io/python-terminal-and-related-topics/)
+
 [Recommendation Engine for Perfumes](https://medium.com/@haya.toumy/recommender-engine-for-perfumes-35b1a0b0d436)
 
 [Live Traffic Updates, and Road Conditions: Interactive, Easy to Use, Function](https://medium.com/@haya.toumy/interactive-function-to-gather-live-tweets-about-road-conditions-and-traffic-status-91df25289dd9)
